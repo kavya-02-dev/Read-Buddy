@@ -1,8 +1,3 @@
-Perfect — I’ll keep **your exact content**, but rewrite it into a **clean, GitHub-rendering, Google-lovable README format**, and I’ll also show you **how to add Screenshots properly** (the right way recruiters like).
-
-You can **copy-paste this directly** into `README.md`.
-
----
 
 # 📚 Read Buddy
 
